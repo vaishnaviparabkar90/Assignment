@@ -1,4 +1,4 @@
-### Here are some screenshots added to visually see the application demo runnin on the local ...
+### Screenshots of the application for reference
 
 
 ![ Image](/Screenshot%20(139).png)
